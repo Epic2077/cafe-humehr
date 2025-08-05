@@ -1,0 +1,209 @@
+[
+  {
+    "category": { "fa": "قهوه گرم", "en": "Hot Coffee" },
+    "items": [
+      {
+        "id": 1,
+        "name_fa": "اسپرسو",
+        "name_en": "Espresso",
+        "ingredients_fa": "قهوه خالص",
+        "ingredients_en": "Pure Coffee",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b7b66c0a0a.jpeg"
+      },
+      {
+        "id": 2,
+        "name_fa": "امریکنو",
+        "name_en": "Americano",
+        "ingredients_fa": "اسپرسو، آب",
+        "ingredients_en": "Espresso, Water",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b8385832e2.jpeg"
+      },
+      {
+        "id": 3,
+        "name_fa": "لاته",
+        "name_en": "Latte",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
+        "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b84bac3512.jpeg"
+      },
+      {
+        "id": 4,
+        "name_fa": "ماکیاتو",
+        "name_en": "Macchiato",
+        "ingredients_fa": "اسپرسو، کف شیر",
+        "ingredients_en": "Espresso, Milk Foam",
+        "img": "/macchiato.png"
+      },
+      {
+        "id": 5,
+        "name_fa": "موکا",
+        "name_en": "Mocha",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده، شکلات",
+        "ingredients_en": "Espresso, Steamed Milk, Chocolate",
+        "img": "/mocha.png"
+      },
+      {
+        "id": 6,
+        "name_fa": "کاپوچینو",
+        "name_en": "Cappuccino",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
+        "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b838791fb0.jpeg"
+      },
+      {
+        "id": 7,
+        "name_fa": "کورداتو",
+        "name_en": "Cortado",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده",
+        "ingredients_en": "Espresso, Steamed Milk",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b838ddc130.jpeg"
+      },
+      {
+        "id": 8,
+        "name_fa": "لته عسل زعفران",
+        "name_en": "Saffron Honey Latte",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
+        "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b84bac3512.jpeg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "قهوه سرد", "en": "Cold Coffee" },
+    "items": [
+      {
+        "id": 9,
+        "name_fa": "آیس لاته",
+        "name_en": "Iced Latte",
+        "ingredients_fa": "اسپرسو، شیر، یخ",
+        "ingredients_en": "Espresso, Milk, Ice",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+      },
+      {
+        "id": 10,
+        "name_fa": "آیس آمریکانو",
+        "name_en": "Iced Americano",
+        "ingredients_fa": "اسپرسو، آب، یخ",
+        "ingredients_en": "Espresso, Water, Ice",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972ac20c5.jpeg"
+      },
+      {
+        "id": 11,
+        "name_fa": "آیس موکا",
+        "name_en": "Iced Mocha",
+        "ingredients_fa": "اسپرسو، شیر، شکلات، یخ",
+        "ingredients_en": "Espresso, Milk, Chocolate, Ice",
+        "img": "/iced-mocha.png"
+      },
+      {
+        "id": 12,
+        "name_fa": "فراپه",
+        "name_en": "Frappe",
+        "ingredients_fa": "اسپرسو، شیر، یخ، خامه",
+        "ingredients_en": "Espresso, Milk, Ice, Cream",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b9729befe6.jpeg"
+      },
+      {
+        "id": 13,
+        "name_fa": "قهوه کلد برو",
+        "name_en": "Cold Brew",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972a770ba.jpeg"
+      },
+      {
+        "id": 14,
+        "name_fa": "آیس امریکانو سودا لیمو",
+        "name_en": "Iced Americano Soda Lemon",
+        "ingredients_fa": "اسپرسو، آب، یخ، سودا، لیمو",
+        "ingredients_en": "Espresso, Water, Ice, Soda, Lemon",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+      },
+      {
+        "id": 15,
+        "name_fa": "آفوگاتو",
+        "name_en": "Affogato",
+        "ingredients_fa": "اسپرسو، بستنی",
+        "ingredients_en": "Espresso, Ice Cream",
+        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+      },
+      {
+        "id": 16,
+        "name_fa": "آیس لته ماچا",
+        "name_en": "Iced Matcha Latte",
+        "ingredients_fa": "اسپرسو، شیر، یخ، پودر ماچا",
+        "ingredients_en": "Espresso, Milk, Ice, Matcha Powder",
+        "img": ""
+      }
+    ]
+  },
+  {
+    "category": { "fa": "نوشیدنی گرم", "en": "Hot Drinks" },
+    "items": [
+      {
+        "id": 17,
+        "name_fa": "شیر لوتوس",
+        "name_en": "Lotus Milk",
+        "ingredients_fa": "شیر بخار داده شده، کرم لوتوس",
+        "ingredients_en": "Steamed Milk, Lotus Cream",
+        "img": ""
+      },
+      {
+        "id": 18,
+        "name_fa": "شیر نوتلا",
+        "name_en": "Nutella Milk",
+        "ingredients_fa": "شیر بخار داده شده، کرم نوتلا",
+        "ingredients_en": "Steamed Milk, Nutella Cream",
+        "img": ""
+      },
+      {
+        "id": 19,
+        "name_fa": "شیر پسته",
+        "name_en": "Pistachio Milk",
+        "ingredients_fa": "شیر بخار داده شده، کرم پسته",
+        "ingredients_en": "Steamed Milk, Pistachio Cream",
+        "img": ""
+      },
+      {
+        "id": 20,
+        "name_fa": "چای ماسالا",
+        "name_en": "Masala Chai",
+        "ingredients_fa": "چای، ادویه‌جات، شیر",
+        "ingredients_en": "Tea, Spices, Milk",
+        "img": ""
+      },
+      {
+        "id": 21,
+        "name_fa": "سویا چاکلت",
+        "name_en": "Soy Chocolate",
+        "ingredients_fa": "شکلات داغ، شیر سویا",
+        "ingredients_en": "Hot Chocolate, Soy Milk",
+        "img": ""
+      },
+      {
+        "id": 22,
+        "name_fa": "چای کرک",
+        "name_en": "Karak Chai",
+        "ingredients_fa": "چای، ادویه‌جات، شیر",
+        "ingredients_en": "Tea, Spices, Milk",
+        "img": ""
+      },
+      {
+        "id": 23,
+        "name_fa": "هات چاکلت",
+        "name_en": "Hot Chocolate",
+        "ingredients_fa": "شکلات داغ، شیر",
+        "ingredients_en": "Hot Chocolate, Milk",
+        "img": ""
+      },
+      {
+        "id": 24,
+        "name_fa": "وایت چاکلت",
+        "name_en": "White Chocolate",
+        "ingredients_fa": "شکلات سفید، شیر",
+        "ingredients_en": "White Chocolate, Milk",
+        "img": ""
+      }
+    ]
+  }
+]
