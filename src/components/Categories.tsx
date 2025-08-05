@@ -42,7 +42,7 @@ export default function CategoryFilter({ lang }: { lang: Lang }) {
     return (
       <div className="flex gap-4 overflow-x-auto">
         {/* Loading skeleton */}
-        {[1, 2, 3].map((i) => (
+        {[1, 2, 3, 4, 5].map((i) => (
           <div
             key={i}
             className="px-4 py-2.5 rounded-3xl bg-gray-200 animate-pulse"
@@ -55,20 +55,32 @@ export default function CategoryFilter({ lang }: { lang: Lang }) {
   }
 
   return (
-    <div className="flex gap-4 overflow-x-auto">
-      {data.map((section, idx) => (
-        <button
-          key={idx}
-          className={`px-4 py-2.5 items-center justify-center flex rounded-3xl text-sm ${
-            selectedCategory === section.category[lang]
-              ? "bg-[#C99541] text-[#FFFFFF]"
-              : " bg-[#F0E1CC] text-[#5E4E2C] hover:bg-[#cabeac]"
-          }`}
-          onClick={() => setSelectedCategory(section.category[lang])}
-        >
-          {section.category[lang]}
-        </button>
-      ))}
+    <div
+      className="flex gap-4 overflow-x-auto"
+      style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+    >
+      <style>
+        {`
+          .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+          }
+        `}
+      </style>
+      <div className="hide-scrollbar flex gap-4">
+        {data.map((section, idx) => (
+          <button
+            key={idx}
+            className={`px-4 py-2.5 items-center justify-center flex rounded-3xl text-sm whitespace-nowrap ${
+              selectedCategory === section.category[lang]
+                ? "bg-[#C99541] text-[#FFFFFF]"
+                : " bg-[#F0E1CC] text-[#5E4E2C] hover:bg-[#cabeac]"
+            }`}
+            onClick={() => setSelectedCategory(section.category[lang])}
+          >
+            {section.category[lang]}
+          </button>
+        ))}
+      </div>
     </div>
   );
 }

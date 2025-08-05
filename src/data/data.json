@@ -205,5 +205,13 @@
         "img": ""
       }
     ]
+  },
+  {
+    "category": { "fa": "چای و دمنوش", "en": "Tea and Herbal Tea" },
+    "items": []
+  },
+  {
+    "category": { "fa": "ماکتل", "en": "Mocktail" },
+    "items": []
   }
 ]
