@@ -2,6 +2,11 @@
   "name": "cafe-humehr",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Ashkan Sadeghi",
+    "email": "epic.2077.uni@gmail.com",
+    "url": "https://github.com/Epic2077"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
