@@ -1,8 +1,8 @@
 export const defaultLang = "fa";
 
 export const languages = {
-  fa: "فارسی",
-  en: "English",
+  fa: "FA",
+  en: "EN",
 };
 
 export type Lang = keyof typeof languages;

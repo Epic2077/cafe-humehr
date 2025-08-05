@@ -5,11 +5,13 @@ import "./globals.css";
 const caveat = Caveat({
   variable: "--font-caveat",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
 });
 
 const source = Source_Sans_3({
   variable: "--font-source",
   subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -23,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html>
       <body className={`${caveat.variable} ${source.variable} antialiased`}>
         {children}
       </body>

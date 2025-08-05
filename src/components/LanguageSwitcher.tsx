@@ -18,14 +18,15 @@ export default function LanguageSwitcher({
 
         const newPath = pathname.replace(`/${currentLang}`, `/${lang}`);
         return (
-          <div
-            className="w-12 h-3.5 flex justify-center items-center"
+          <Link
+            href={newPath}
+            className="english-text font-bold text-xs"
             key={lang}
           >
-            <Link href={newPath} className="english-text text-xs">
+            <div className="w-12 h-4 flex justify-center items-center bg-[#F0E1CC] border border-[#834D1E] rounded-xl">
               {label}
-            </Link>
-          </div>
+            </div>
+          </Link>
         );
       })}
     </div>
