@@ -1,6 +1,5 @@
 "use client";
 import { Lang } from "@/utils/i18n";
-import { useState, useEffect } from "react";
 
 interface MenuItem {
   id: number;
@@ -16,28 +15,21 @@ interface MenuCategory {
   items: MenuItem[];
 }
 
-export default function CategoryFilter({ lang }: { lang: Lang }) {
-  const [data, setData] = useState<MenuCategory[]>([]);
-  const [selectedCategory, setSelectedCategory] = useState<string>("");
-  const [loading, setLoading] = useState(true);
+interface CategoryFilterProps {
+  lang: Lang;
+  data: MenuCategory[];
+  selectedCategory: string;
+  onCategoryChange: (category: string) => void;
+  loading: boolean;
+}
 
-  useEffect(() => {
-    const fetchMenuData = async () => {
-      try {
-        const response = await fetch("/api/menu");
-        const menuData = await response.json();
-        setData(menuData);
-        setSelectedCategory(menuData[0]?.category[lang] || "");
-      } catch (error) {
-        console.error("Failed to fetch menu data:", error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchMenuData();
-  }, [lang]);
-
+export default function CategoryFilter({
+  lang,
+  data,
+  selectedCategory,
+  onCategoryChange,
+  loading,
+}: CategoryFilterProps) {
   if (loading) {
     return (
       <div className="flex gap-4 overflow-x-auto">
@@ -75,7 +67,7 @@ export default function CategoryFilter({ lang }: { lang: Lang }) {
                 ? "bg-[#C99541] text-[#FFFFFF]"
                 : " bg-[#F0E1CC] text-[#5E4E2C] hover:bg-[#cabeac]"
             }`}
-            onClick={() => setSelectedCategory(section.category[lang])}
+            onClick={() => onCategoryChange(section.category[lang])}
           >
             {section.category[lang]}
           </button>
