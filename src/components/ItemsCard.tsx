@@ -59,6 +59,9 @@ const ItemsCard = ({ item, lang, index }: ItemsCardProps) => {
         <h3 className={`font-semibold text-lg ${titleColor}`}>
           {lang === "fa" ? item.name_fa : item.name_en}
         </h3>
+        <p className={`${textColor} font-extralight text-[10px] mt-[-8px]`}>
+          {lang === "fa" ? item.name_en : ""}
+        </p>
         <p
           className={`${textColor} font-extralight h-9 text-sm w-32 text-center mx-auto`}
         >
