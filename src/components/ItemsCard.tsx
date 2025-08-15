@@ -45,6 +45,7 @@ const ItemsCard = ({ item, lang, index }: ItemsCardProps) => {
             alt={lang === "fa" ? item.name_fa : item.name_en}
             fill
             className="object-cover rounded-2xl"
+            style={{ objectPosition: "center" }}
             onError={() => handleImageError(item.id)}
           />
         ) : (

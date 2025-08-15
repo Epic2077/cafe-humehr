@@ -8,7 +8,7 @@
         "name_en": "Espresso",
         "ingredients_fa": "قهوه خالص",
         "ingredients_en": "Pure Coffee",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b7b66c0a0a.jpeg"
+        "img": "/items/esspresso.jpg"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "name_en": "Americano",
         "ingredients_fa": "اسپرسو، آب",
         "ingredients_en": "Espresso, Water",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b8385832e2.jpeg"
+        "img": "/items/americano.jpg"
       },
       {
         "id": 3,
@@ -24,15 +24,15 @@
         "name_en": "Latte",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b84bac3512.jpeg"
+        "img": "/items/latte.jpg"
       },
       {
         "id": 4,
-        "name_fa": "ماکیاتو",
-        "name_en": "Macchiato",
-        "ingredients_fa": "اسپرسو، کف شیر",
-        "ingredients_en": "Espresso, Milk Foam",
-        "img": "/macchiato.png"
+        "name_fa": "وی سیکستی",
+        "name_en": "V60",
+        "ingredients_fa": "اسپرسو",
+        "ingredients_en": "Espresso",
+        "img": "/items/v60.jpg"
       },
       {
         "id": 5,
@@ -40,7 +40,7 @@
         "name_en": "Mocha",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، شکلات",
         "ingredients_en": "Espresso, Steamed Milk, Chocolate",
-        "img": "/mocha.png"
+        "img": "/items/latte.jpg"
       },
       {
         "id": 6,
@@ -48,11 +48,11 @@
         "name_en": "Cappuccino",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b838791fb0.jpeg"
+        "img": "/items/cappuccino.jpg"
       },
       {
         "id": 7,
-        "name_fa": "کورداتو",
+        "name_fa": "کورتادو",
         "name_en": "Cortado",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده",
         "ingredients_en": "Espresso, Steamed Milk",
@@ -60,11 +60,11 @@
       },
       {
         "id": 8,
-        "name_fa": "لته عسل زعفران",
-        "name_en": "Saffron Honey Latte",
+        "name_fa": "لته ماچا",
+        "name_en": "Matcha Latte",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
         "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b84bac3512.jpeg"
+        "img": "/items/lattemacha.jpg"
       }
     ]
   },
@@ -77,7 +77,7 @@
         "name_en": "Iced Latte",
         "ingredients_fa": "اسپرسو، شیر، یخ",
         "ingredients_en": "Espresso, Milk, Ice",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+        "img": "/items/icelatte.jpg"
       },
       {
         "id": 10,
@@ -85,7 +85,7 @@
         "name_en": "Iced Americano",
         "ingredients_fa": "اسپرسو، آب، یخ",
         "ingredients_en": "Espresso, Water, Ice",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972ac20c5.jpeg"
+        "img": "/items/iceamericano.jpg"
       },
       {
         "id": 11,
@@ -93,7 +93,7 @@
         "name_en": "Iced Mocha",
         "ingredients_fa": "اسپرسو، شیر، شکلات، یخ",
         "ingredients_en": "Espresso, Milk, Chocolate, Ice",
-        "img": "/iced-mocha.png"
+        "img": "/items/icemocha.jpg"
       },
       {
         "id": 12,
@@ -101,15 +101,15 @@
         "name_en": "Frappe",
         "ingredients_fa": "اسپرسو، شیر، یخ، خامه",
         "ingredients_en": "Espresso, Milk, Ice, Cream",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b9729befe6.jpeg"
+        "img": "/items/frappe.jpg"
       },
       {
-        "id": 16,
+        "id": 13,
         "name_fa": "آیس لته ماچا",
         "name_en": "Iced Matcha Latte",
         "ingredients_fa": "اسپرسو، شیر، یخ، پودر ماچا",
         "ingredients_en": "Espresso, Milk, Ice, Matcha Powder",
-        "img": ""
+        "img": "/items/icemacha.jpg"
       },
       {
         "id": 14,
@@ -117,7 +117,7 @@
         "name_en": "Iced Americano Soda Lemon",
         "ingredients_fa": "اسپرسو، آب، یخ، سودا، لیمو",
         "ingredients_en": "Espresso, Water, Ice, Soda, Lemon",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+        "img": "/items/iceamericano.jpg"
       },
       {
         "id": 15,
@@ -125,7 +125,7 @@
         "name_en": "Affogato",
         "ingredients_fa": "اسپرسو، بستنی",
         "ingredients_en": "Espresso, Ice Cream",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972c82706.jpeg"
+        "img": "/items/affogato.jpg"
       },
       {
         "id": 16,
@@ -133,7 +133,7 @@
         "name_en": "Cold Brew",
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b972a770ba.jpeg"
+        "img": "/items/coldbrew.jpg"
       }
     ]
   },
@@ -146,7 +146,7 @@
         "name_en": "Lotus Milk",
         "ingredients_fa": "شیر بخار داده شده، کرم لوتوس",
         "ingredients_en": "Steamed Milk, Lotus Cream",
-        "img": ""
+        "img": "/items/lotusmilk.jpg"
       },
       {
         "id": 18,
@@ -154,7 +154,7 @@
         "name_en": "Nutella Milk",
         "ingredients_fa": "شیر بخار داده شده، کرم نوتلا",
         "ingredients_en": "Steamed Milk, Nutella Cream",
-        "img": ""
+        "img": "/items/nutellamilk.jpg"
       },
       {
         "id": 19,
@@ -162,7 +162,7 @@
         "name_en": "Pistachio Milk",
         "ingredients_fa": "شیر بخار داده شده، کرم پسته",
         "ingredients_en": "Steamed Milk, Pistachio Cream",
-        "img": ""
+        "img": "/items/pistachiomilk.jpg"
       },
       {
         "id": 20,
@@ -170,15 +170,15 @@
         "name_en": "Masala Chai",
         "ingredients_fa": "چای، ادویه‌جات، شیر",
         "ingredients_en": "Tea, Spices, Milk",
-        "img": ""
+        "img": "/items/masala.jpg"
       },
       {
         "id": 21,
-        "name_fa": "سویا چاکلت",
-        "name_en": "Soy Chocolate",
-        "ingredients_fa": "شکلات داغ، شیر سویا",
-        "ingredients_en": "Hot Chocolate, Soy Milk",
-        "img": ""
+        "name_fa": "کره چاکلت",
+        "name_en": "Butter Chocolate",
+        "ingredients_fa": "شکلات داغ، کره",
+        "ingredients_en": "Hot Chocolate, Butter",
+        "img": "/items/butterchocolate.jpg"
       },
       {
         "id": 22,
@@ -186,7 +186,7 @@
         "name_en": "Karak Chai",
         "ingredients_fa": "چای، ادویه‌جات، شیر",
         "ingredients_en": "Tea, Spices, Milk",
-        "img": ""
+        "img": "/items/karakzaferani.jpg"
       },
       {
         "id": 23,
@@ -194,7 +194,7 @@
         "name_en": "Hot Chocolate",
         "ingredients_fa": "شکلات داغ، شیر",
         "ingredients_en": "Hot Chocolate, Milk",
-        "img": ""
+        "img": "/items/hotchocolate.jpg"
       },
       {
         "id": 24,
@@ -202,7 +202,7 @@
         "name_en": "White Chocolate",
         "ingredients_fa": "شکلات سفید، شیر",
         "ingredients_en": "White Chocolate, Milk",
-        "img": ""
+        "img": "/items/whitechocolate.jpg"
       }
     ]
   },
@@ -215,7 +215,7 @@
         "name_en": "Black Tea",
         "ingredients_fa": "چای سیاه",
         "ingredients_en": "Black Tea",
-        "img": ""
+        "img": "/items/tea.jpg"
       },
       {
         "id": 26,
@@ -223,7 +223,7 @@
         "name_en": "Moroccan Tea",
         "ingredients_fa": "چای سبز، نعناع، شکر",
         "ingredients_en": "Green Tea, Mint, Sugar",
-        "img": ""
+        "img": "/items/tea.jpg"
       },
       {
         "id": 27,
@@ -231,7 +231,7 @@
         "name_en": "Queen Berry Herbal Tea",
         "ingredients_fa": "چای گیاهی، میوه‌های خشک",
         "ingredients_en": "Herbal Tea, Dried Fruits",
-        "img": ""
+        "img": "/items/tea.jpg"
       },
       {
         "id": 28,
@@ -239,7 +239,7 @@
         "name_en": "Relax Herbal Tea",
         "ingredients_fa": "چای گیاهی، گل گاوزبان، سنبل‌الطیب",
         "ingredients_en": "Herbal Tea, Borage, Valerian",
-        "img": ""
+        "img": "/items/tea.jpg"
       },
       {
         "id": 29,
@@ -247,7 +247,7 @@
         "name_en": "Hot Mint Herbal Tea",
         "ingredients_fa": "چای گیاهی، نعناع، شکر",
         "ingredients_en": "Herbal Tea, Mint, Sugar",
-        "img": ""
+        "img": "/items/tea.jpg"
       },
       {
         "id": 30,
@@ -255,7 +255,7 @@
         "name_en": "Apple Ocean Herbal Tea",
         "ingredients_fa": "چای گیاهی، سیب، دارچین",
         "ingredients_en": "Herbal Tea, Apple, Cinnamon",
-        "img": ""
+        "img": "/items/tea.jpg"
       }
     ]
   },
@@ -268,7 +268,7 @@
         "name_en": "Mojito",
         "ingredients_fa": "نعناع، لیمو، شکر، سودا",
         "ingredients_en": "Mint, Lemon, Sugar, Soda",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/66851d0a45d59.png"
+        "img": "/items/mojito.jpg"
       },
       {
         "id": 32,
@@ -276,7 +276,7 @@
         "name_en": "Lemonade",
         "ingredients_fa": "لیمو، شکر، آب",
         "ingredients_en": "Lemon, Sugar, Water",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/66851d0ad803d.png"
+        "img": "/items/lemonade.jpg"
       },
       {
         "id": 33,
@@ -284,7 +284,7 @@
         "name_en": "Red Boom Mocktail",
         "ingredients_fa": "تمشک، آلبالو، پرتقال",
         "ingredients_en": "Raspberry, Cherry, Orange",
-        "img": ""
+        "img": "/items/redboom.jpg"
       },
       {
         "id": 34,
@@ -292,15 +292,15 @@
         "name_en": "Blue Gs Mocktail",
         "ingredients_fa": "آلوئه ورا، نارگیل",
         "ingredients_en": "Aloe Vera, Coconut",
-        "img": ""
+        "img": "/items/bluegas.jpg"
       },
       {
         "id": 35,
-        "name_fa": "ماکتل بلک کریم",
-        "name_en": "Black Cream Mocktail",
+        "name_fa": "اسپارکل رد",
+        "name_en": "Sparkle Red Mocktail",
         "ingredients_fa": "توت فرنگی، لیمو، سودا",
         "ingredients_en": "Strawberry, Lemon, Soda",
-        "img": ""
+        "img": "/items/sparklered.jpg"
       },
       {
         "id": 36,
@@ -308,15 +308,15 @@
         "name_en": "Orange Juice",
         "ingredients_fa": "پرتقال تازه",
         "ingredients_en": "Fresh Orange",
-        "img": ""
+        "img": "/items/orangejuice.jpg"
       },
       {
         "id": 37,
-        "name_fa": "ماکتل جینجر لمون",
-        "name_en": "Ginger Lemon Mocktail",
-        "ingredients_fa": "زنجبیل، لیمو، شکر، سودا",
-        "ingredients_en": "Ginger, Lemon, Sugar, Soda",
-        "img": ""
+        "name_fa": "آیس تی گانولا",
+        "name_en": "Iced Tea Ganola",
+        "ingredients_fa": "چای، گرانولا، شیر",
+        "ingredients_en": "Tea, Granola, Milk",
+        "img": "/items/iceteaganola.jpg"
       },
       {
         "id": 38,
@@ -324,76 +324,200 @@
         "name_en": "Balmy Cola Mocktail",
         "ingredients_fa": "تمشک، پرتقال، کولا",
         "ingredients_en": "Raspberry, Orange, Cola",
-        "img": ""
+        "img": "/items/bulmicola.jpg"
       },
       {
         "id": 39,
-        "name_fa": "فراپکورن",
-        "name_en": "Frapkorn",
+        "name_fa": "تراپیکال",
+        "name_en": "Tropical",
         "ingredients_fa": "لبموناد، پشن فروت",
         "ingredients_en": "Lemonade, Passion Fruit ",
-        "img": ""
+        "img": "/items/tropical.jpg"
       },
       {
         "id": 40,
-        "name_fa": "ماکتل کوکورام",
-        "name_en": "Cocoram Mocktail",
+        "name_fa": "ماکتل پالنا",
+        "name_en": "Palna Mocktail",
         "ingredients_fa": "نارگیل، زرد آلو",
         "ingredients_en": "Coconut, Apricot",
-        "img": ""
+        "img": "/items/palna.jpg"
       }
     ]
   },
   {
-    "category": { "fa": "اسموتی", "en": "Smoothie" },
+    "category": { "fa": "شیک", "en": "Shake" },
     "items": [
       {
         "id": 41,
-        "name_fa": "اسموتی شکلاتی زعفرانی",
-        "name_en": "Saffron Chocolate Smoothie",
-        "ingredients_fa": "شکلات، زعفران، انجیر",
-        "ingredients_en": "Chocolate, Saffron, Fig",
-        "img": ""
+        "name_fa": "شیک کره بادام زمینی",
+        "name_en": "Peanut Butter Shake",
+        "ingredients_fa": "کره بادام زمینی، موز، شیر",
+        "ingredients_en": "Peanut Butter, Banana, Milk",
+        "img": "/items/peanutbuttershake.jpg"
       },
       {
         "id": 42,
-        "name_fa": "اسموتی تراپیکال",
-        "name_en": "Tropical Smoothie",
-        "ingredients_fa": "موز، انبه، توت فرنگی",
-        "ingredients_en": "Banana, Mango, Strawberry",
-        "img": ""
+        "name_fa": " شیک هومهر",
+        "name_en": "Humehr Shake",
+        "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
+        "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
+        "img": "/items/humehr.jpg"
       },
       {
         "id": 43,
-        "name_fa": "اسموتی ترش",
-        "name_en": "Sour Smoothie",
-        "ingredients_fa": "آلبالو، اناز ترش",
-        "ingredients_en": "Sour Cherry, Sour Promegranate",
-        "img": ""
+        "name_fa": "کوکیکو",
+        "name_en": "Kokiko shake",
+        "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
+        "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
+        "img": "/items/kookiko.jpg"
       },
       {
         "id": 44,
-        "name_fa": "اسموتی مارگاریتا",
-        "name_en": "Margarita Smoothie",
-        "ingredients_fa": "لیمو، نعناع، آناناس",
-        "ingredients_en": "Lemon, Mint, Pineapple",
-        "img": ""
-      },
+        "name_fa": "شیک لوتوس",
+        "name_en": "Lotus Shake",
+        "ingredients_fa": "شیر، بستنی وانیلی، لوتوس",
+        "ingredients_en": "Milk, Vanilla Ice Cream, Lotus",
+        "img": "/items/lotus.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "سالاد", "en": "Salad" },
+    "items": [
       {
         "id": 45,
-        "name_fa": "اسموتی ماچا انبه",
-        "name_en": "Matcha Mango Smoothie",
-        "ingredients_fa": "ماچا، انبه، شیر",
-        "ingredients_en": "Matcha, Mango, Milk",
-        "img": ""
+        "name_fa": "سالاد سزار",
+        "name_en": "Caesar Salad",
+        "ingredients_fa": "کاهو، سس سزار، پنیر پارمزان، نان تست",
+        "ingredients_en": "Lettuce, Caesar Dressing, Parmesan Cheese, Croutons",
+        "img": "/items/caesarsalad.jpg"
       },
       {
         "id": 46,
-        "name_fa": "اسموتی موز آناناس",
-        "name_en": "Banana Pineapple Smoothie",
-        "ingredients_fa": "موز، آناناس، شیر",
-        "ingredients_en": "Banana, Pineapple, Milk",
-        "img": ""
+        "name_fa": "سالاد میدل ایست",
+        "name_en": "Middle East Salad",
+        "ingredients_fa": "کاهو، گوجه فرنگی، خیار، زیتون، فلفل دلمه‌ای، سس زیتون",
+        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper, Olive Oil Dressing",
+        "img": "/items/middleeastsalad.jpg"
+      },
+      {
+        "id": 47,
+        "name_fa": "سالاد هومهر",
+        "name_en": "Humehr Salad",
+        "ingredients_fa": "کاهو، گوجه فرنگی، خیار، زیتون، فلفل دلمه‌ای، سس زیتون",
+        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper, Olive Oil Dressing",
+        "img": "/items/humehrsalad.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "ساندویچ", "en": "Sandwich" },
+    "items": [
+      {
+        "id": 48,
+        "name_fa": "تاکو مرغ",
+        "name_en": "Chicken Taco",
+        "ingredients_fa": "مرغ، نان تاکو، کاهو، گوجه فرنگی، پنیر",
+        "ingredients_en": "Chicken, Taco Shell, Lettuce, Tomato, Cheese",
+        "img": "/items/chickentaco.jpg"
+      },
+      {
+        "id": 49,
+        "name_fa": "تاکو سبزیجات",
+        "name_en": "Vegetable Taco",
+        "ingredients_fa": "سبزیجات، نان تاکو، کاهو، گوجه فرنگی، پنیر",
+        "ingredients_en": "Vegetables, Taco Shell, Lettuce, Tomato, Cheese",
+        "img": "/items/chickentaco.jpg"
+      },
+      {
+        "id": 50,
+        "name_fa": "تاکو گوشت",
+        "name_en": "Meat Taco",
+        "ingredients_fa": "گوشت، نان تاکو، کاهو، گوجه فرنگی، پنیر",
+        "ingredients_en": "Meat, Taco Shell, Lettuce, Tomato, Cheese",
+        "img": "/items/chickentaco.jpg"
+      },
+      {
+        "id": 51,
+        "name_fa": "مریدا",
+        "name_en": "Merida",
+        "ingredients_fa": "نان، مرغ، پنیر، سس",
+        "ingredients_en": "Bread, Chicken, Cheese, Sauce",
+        "img": "/items/merida.jpg"
+      },
+      {
+        "id": 52,
+        "name_fa": "چیلی داگ",
+        "name_en": "Chili Dog",
+        "ingredients_fa": "سوسیس، نان هات داگ، سس چیلی، پنیر",
+        "ingredients_en": "Sausage, Hot Dog Bun, Chili Sauce, Cheese",
+        "img": "/items/chilidog.jpg"
+      },
+      {
+        "id": 53,
+        "name_fa": "ماشروم داگ",
+        "name_en": "Mushroom Dog",
+        "ingredients_fa": "سوسیس، نان هات داگ، سس ماشروم، پنیر",
+        "ingredients_en": "Sausage, Hot Dog Bun, Mushroom Sauce, Cheese",
+        "img": "/items/mushroomdog.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "میان وعده", "en": "Snacks" },
+    "items": [
+      {
+        "id": 54,
+        "name_fa": "وجیز",
+        "name_en": "veggies",
+        "ingredients_fa": "سیب زمینی سرخ کرده",
+        "ingredients_en": "French Fries",
+        "img": "/items/vegies.jpg"
+      },
+      {
+        "id": 55,
+        "name_fa": "ماشروم پوتیتو",
+        "name_en": "mushroom potato",
+        "ingredients_fa": "سیب زمینی سرخ کرده، قارچ، پنیر",
+        "ingredients_en": "French Fries, Mushrooms, Cheese",
+        "img": "/items/mushroompotato.jpg"
+      },
+      {
+        "id": 56,
+        "name_fa": "هات فرایز",
+        "name_en": "hot fries",
+        "ingredients_fa": "سیب زمینی سرخ کرده، سوسیس، پنیر",
+        "ingredients_en": "French Fries, Sausage, Cheese",
+        "img": "/items/hotfries.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "پنینی", "en": "Panini" },
+    "items": [
+      {
+        "id": 57,
+        "name_fa": "پنینی چینیتو",
+        "name_en": "Chinitos Panini",
+        "ingredients_fa": "نان پنینی، مرغ، پنیر، سس",
+        "ingredients_en": "Panini Bread, Chicken, Cheese, Sauce",
+        "img": "/items/paninichanato.jpg"
+      },
+      {
+        "id": 58,
+        "name_fa": "پنینی تاناتو",
+        "name_en": "Tanatos Panini",
+        "ingredients_fa": "نان پنینی، گوشت، پنیر، سس",
+        "ingredients_en": "Panini Bread, Meat, Cheese, Sauce",
+        "img": "/items/paninietanato.jpg"
+      },
+      {
+        "id": 59,
+        "name_fa": "پنینی بیف پستو",
+        "name_en": "Beef Pesto Panini",
+        "ingredients_fa": "نان پنینی، گوشت، پنیر، سس پستو",
+        "ingredients_en": "Panini Bread, Beef, Cheese, Pesto Sauce",
+        "img": "/items/paninibeefpesto.jpg"
       }
     ]
   }
