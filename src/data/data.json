@@ -26,14 +26,7 @@
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
         "img": "/items/latte.jpg"
       },
-      {
-        "id": 4,
-        "name_fa": "وی سیکستی",
-        "name_en": "V60",
-        "ingredients_fa": "اسپرسو",
-        "ingredients_en": "Espresso",
-        "img": "/items/v60.jpg"
-      },
+
       {
         "id": 5,
         "name_fa": "موکا",
@@ -65,6 +58,14 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
         "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
         "img": "/items/lattemacha.jpg"
+      },
+      {
+        "id": 9,
+        "name_fa": "لته عسل زعفران",
+        "name_en": "Saffron Honey Latte",
+        "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
+        "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
+        "img": "/items/latte.jpg"
       }
     ]
   },
@@ -93,7 +94,7 @@
         "name_en": "Iced Mocha",
         "ingredients_fa": "اسپرسو، شیر، شکلات، یخ",
         "ingredients_en": "Espresso, Milk, Chocolate, Ice",
-        "img": "/items/icemocha.jpg"
+        "img": "/items/icelatte.jpg"
       },
       {
         "id": 12,
@@ -129,11 +130,48 @@
       },
       {
         "id": 16,
-        "name_fa": "قهوه کلد برو",
-        "name_en": "Cold Brew",
+        "name_fa": "آیس لته سیگنچر",
+        "name_en": "Iced Latte Signature",
+        "ingredients_fa": "اسپرسو، شیر، یخ، طعم‌دهنده‌های مختلف",
+        "ingredients_en": "Espresso, Milk, Ice, Various Flavorings",
+        "img": "/items/icemocha.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "قهوه دم‌کرده", "en": "Brewing Coffee" },
+    "items": [
+      {
+        "id": 17,
+        "name_fa": "قهوه کمیکس",
+        "name_en": "Chemex Coffee",
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
-        "img": "/items/coldbrew.jpg"
+        "img": "/items/chemex.jpg"
+      },
+      {
+        "id": 18,
+        "name_fa": "قهوه فرانسه",
+        "name_en": "French Coffee",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "/items/frenchcoffee.jpg"
+      },
+      {
+        "id": 19,
+        "name_fa": "قهوه ترک",
+        "name_en": "Turkish Coffee",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "/items/turkishcoffee.jpg"
+      },
+      {
+        "id": 20,
+        "name_fa": "وی 60",
+        "name_en": "V60",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "/items/v60.jpg"
       }
     ]
   },
@@ -294,14 +332,7 @@
         "ingredients_en": "Aloe Vera, Coconut",
         "img": "/items/bluegas.jpg"
       },
-      {
-        "id": 35,
-        "name_fa": "اسپارکل رد",
-        "name_en": "Sparkle Red Mocktail",
-        "ingredients_fa": "توت فرنگی، لیمو، سودا",
-        "ingredients_en": "Strawberry, Lemon, Soda",
-        "img": "/items/sparklered.jpg"
-      },
+
       {
         "id": 36,
         "name_fa": "آب پرتقال",
@@ -328,6 +359,43 @@
       },
       {
         "id": 39,
+        "name_fa": "انتخاب بارتندر",
+        "name_en": "Bartender's Choice",
+        "ingredients_fa": "ترکیبی از اسموتی و ماکتل",
+        "ingredients_en": "A blend of smoothie and mocktail",
+        "img": "/items/redboom.jpg"
+      },
+      {
+        "id": 40,
+        "name_fa": "ماکتل بلک کریم",
+        "name_en": "Black Cream Mocktail",
+        "ingredients_fa": "کرم، شکلات، شیر",
+        "ingredients_en": "Cream, Chocolate, Milk",
+        "img": ""
+      },
+      {
+        "id": 41,
+        "name_fa": "ماکتل پشن فروت",
+        "name_en": "Passion Fruit Mocktail",
+        "ingredients_fa": "پشن فروت، لیمو، شکر، سودا",
+        "ingredients_en": "Passion Fruit, Lemon, Sugar, Soda",
+        "img": "/items/lemonade.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "اسموتی", "en": "Smoothie" },
+    "items": [
+      {
+        "id": 40,
+        "name_fa": " پالنا",
+        "name_en": "Palna Smoothie",
+        "ingredients_fa": "نارگیل، زرد آلو",
+        "ingredients_en": "Coconut, Apricot",
+        "img": "/items/palna.jpg"
+      },
+      {
+        "id": 39,
         "name_fa": "تراپیکال",
         "name_en": "Tropical",
         "ingredients_fa": "لبموناد، پشن فروت",
@@ -335,12 +403,28 @@
         "img": "/items/tropical.jpg"
       },
       {
-        "id": 40,
-        "name_fa": "ماکتل پالنا",
-        "name_en": "Palna Mocktail",
-        "ingredients_fa": "نارگیل، زرد آلو",
-        "ingredients_en": "Coconut, Apricot",
-        "img": "/items/palna.jpg"
+        "id": 35,
+        "name_fa": "اسپارکل رد",
+        "name_en": "Sparkle Red Smoothie",
+        "ingredients_fa": "توت فرنگی، لیمو، سودا",
+        "ingredients_en": "Strawberry, Lemon, Soda",
+        "img": "/items/sparklered.jpg"
+      },
+      {
+        "id": 36,
+        "name_fa": "مارگاریتا",
+        "name_en": "Margarita",
+        "ingredients_fa": "لیمو، شکر، نمک",
+        "ingredients_en": "Lime, Sugar, Salt",
+        "img": "/items/margarita.jpg"
+      },
+      {
+        "id": 37,
+        "name_fa": "انتخاب بارتندر",
+        "name_en": "Bartender's Choice",
+        "ingredients_fa": "ترکیبی از اسموتی و ماکتل",
+        "ingredients_en": "A blend of smoothie and mocktail",
+        "img": "/items/tropical.jpg"
       }
     ]
   },
@@ -359,13 +443,13 @@
         "id": 42,
         "name_fa": " شیک هومهر",
         "name_en": "Humehr Shake",
-        "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
-        "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
+        "ingredients_fa": "شیر، بستنی وانیلی، توت فرنگی",
+        "ingredients_en": "Milk, Vanilla Ice Cream, Strawberries",
         "img": "/items/humehr.jpg"
       },
       {
         "id": 43,
-        "name_fa": "کوکیکو",
+        "name_fa": "شیک کوکیکو",
         "name_en": "Kokiko shake",
         "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
         "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
@@ -378,6 +462,14 @@
         "ingredients_fa": "شیر، بستنی وانیلی، لوتوس",
         "ingredients_en": "Milk, Vanilla Ice Cream, Lotus",
         "img": "/items/lotus.jpg"
+      },
+      {
+        "id": 45,
+        "name_fa": "شیک شکلات",
+        "name_en": "Chocolate Shake",
+        "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
+        "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
+        "img": "/items/kookiko.jpg"
       }
     ]
   },
@@ -509,7 +601,7 @@
         "name_en": "Tanatos Panini",
         "ingredients_fa": "نان پنینی، گوشت، پنیر، سس",
         "ingredients_en": "Panini Bread, Meat, Cheese, Sauce",
-        "img": "/items/paninietanato.jpg"
+        "img": "/items/paninitanato.jpg"
       },
       {
         "id": 59,
@@ -518,6 +610,197 @@
         "ingredients_fa": "نان پنینی، گوشت، پنیر، سس پستو",
         "ingredients_en": "Panini Bread, Beef, Cheese, Pesto Sauce",
         "img": "/items/paninibeefpesto.jpg"
+      },
+      {
+        "id": 60,
+        "name_fa": "پنینی چیکن آلفردو",
+        "name_en": "Chicken Alfredo Panini",
+        "ingredients_fa": "نان پنینی، مرغ، پنیر، سس آلفردو",
+        "ingredients_en": "Panini Bread, Chicken, Cheese, Alfredo Sauce",
+        "img": "/items/paninichanato.jpg"
+      },
+      {
+        "id": 61,
+        "name_fa": "پنینی گاردانو",
+        "name_en": "Gardano Panini",
+        "ingredients_fa": "نان پنینی، گوشت، پنیر، سس پستو",
+        "ingredients_en": "Panini Bread, Beef, Cheese, Pesto Sauce",
+        "img": "/items/paninibeefpesto.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "پاستا", "en": "Pasta" },
+    "items": [
+      {
+        "id": 60,
+        "name_fa": "پاستا چیکن آلفردو",
+        "name_en": "Chicken Alfredo pasta",
+        "ingredients_fa": "پاستا، مرغ، سس آلفردو، پنیر",
+        "ingredients_en": "Pasta, Chicken, Alfredo Sauce, Cheese",
+        "img": "/items/chickenalfredo.jpg"
+      },
+      {
+        "id": 61,
+        "name_fa": "پاستا بیف چیلی",
+        "name_en": "Beef Chili Pasta",
+        "ingredients_fa": "پاستا، گوشت، سس چیلی، پنیر",
+        "ingredients_en": "Pasta, Beef, Chili Sauce, Cheese",
+        "img": "/items/beefchili.jpg"
+      },
+      {
+        "id": 62,
+        "name_fa": "پاستا بیف پستو",
+        "name_en": "Beef Pesto Pasta",
+        "ingredients_fa": "پاستا، گوشت، سس پستو، پنیر",
+        "ingredients_en": "Pasta, Beef, Pesto Sauce, Cheese",
+        "img": "/items/beefpesto.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "برگر", "en": "Burger" },
+    "items": [
+      {
+        "id": 63,
+        "name_fa": "برگر اسپشیال",
+        "name_en": "Special Burger",
+        "ingredients_fa": "گوشت، نان، پنیر، سس",
+        "ingredients_en": "Meat, Bread, Cheese, Sauce",
+        "img": "/items/specialburger.jpg"
+      },
+      {
+        "id": 64,
+        "name_fa": "ماشروم برگر",
+        "name_en": "Mushroom Burger",
+        "ingredients_fa": "گوشت، نان، پنیر، سس، قارچ",
+        "ingredients_en": "Meat, Bread, Cheese, Sauce, Mushrooms",
+        "img": "/items/mushroomburger.jpg"
+      },
+      {
+        "id": 65,
+        "name_fa": "اسمش برگر",
+        "name_en": "Smash Burger",
+        "ingredients_fa": "گوشت، نان، پنیر، سس، قارچ",
+        "ingredients_en": "Meat, Bread, Cheese, Sauce, Mushrooms",
+        "img": "/items/smashburger.jpg"
+      },
+      {
+        "id": 66,
+        "name_fa": "چیز برگر",
+        "name_en": "Cheese Burger",
+        "ingredients_fa": "گوشت، نان، پنیر، سس",
+        "ingredients_en": "Meat, Bread, Cheese, Sauce",
+        "img": "/items/mushroomburger.jpg"
+      }
+    ]
+  },
+  {
+    "category": { "fa": "صبحانه", "en": "Breakfast" },
+    "items": [
+      {
+        "id": 67,
+        "name_fa": "کانتیننتال",
+        "name_en": "Continental",
+        "ingredients_fa": "کروسان،مربا، تخم مرغ،ژامبون،نوشیدنی خنک و چایی",
+        "ingredients_en": "Croissant, Jam, Eggs, Ham, Cold Drink and Tea",
+        "img": "/items/continental.jpg"
+      },
+      {
+        "id": 68,
+        "name_fa": "صبحانه هومهر",
+        "name_en": "Humehr Breakfast",
+        "ingredients_fa": "کروسان،مربا، تخم مرغ،ژامبون،نوشیدنی خنک و چایی",
+        "ingredients_en": "Croissant, Jam, Eggs, Ham, Cold Drink and Tea",
+        "img": "/items/humehrbreakfast.jpg"
+      },
+      {
+        "id": 69,
+        "name_fa": "صبحانه ایرانی",
+        "name_en": "Iranian Breakfast",
+        "ingredients_fa": "نان، پنیر، سبزی، تخم مرغ، چای",
+        "ingredients_en": "Bread, Cheese, Herbs, Eggs, Tea",
+        "img": "/items/iranianbreakfast.jpg"
+      },
+      {
+        "id": 70,
+        "name_fa": "رول فرانکفورته",
+        "name_en": "Frankfurter Roll",
+        "ingredients_fa": "نان، سوسیس، پنیر، سس",
+        "ingredients_en": "Bread, Sausage, Cheese, Sauce",
+        "img": "/items/frankfurterroll.jpg"
+      },
+      {
+        "id": 71,
+        "name_fa": "املت شاپوری",
+        "name_en": "Shapoori Omelette",
+        "ingredients_fa": "تخم مرغ، پنیر، سبزی، نان",
+        "ingredients_en": "Eggs, Cheese, Herbs, Bread",
+        "img": "/items/shapooriomelette.jpg"
+      },
+      {
+        "id": 72,
+        "name_fa": "صبحانه انگلیسی",
+        "name_en": "English Breakfast",
+        "ingredients_fa": "نان تست، تخم مرغ، سوسیس، بیکن، لوبیا",
+        "ingredients_en": "Toast, Eggs, Sausage, Bacon, Beans",
+        "img": "/items/englishbreakfast.jpg"
+      },
+      {
+        "id": 73,
+        "name_fa": "املت اسفناج",
+        "name_en": "Spinach Omelette",
+        "ingredients_fa": "تخم مرغ، اسفناج، پنیر، نان",
+        "ingredients_en": "Eggs, Spinach, Cheese, Bread",
+        "img": "/items/spinachomelette.jpg"
+      },
+      {
+        "id": 74,
+        "name_fa": "املت ایرانی",
+        "name_en": "Iranian Omelette",
+        "ingredients_fa": "تخم مرغ، گوجه فرنگی، پیاز، فلفل دلمه‌ای، نان",
+        "ingredients_en": "Eggs, Tomatoes, Onions, Bell Peppers, Bread",
+        "img": "/items/iranianomelette.jpg"
+      },
+      {
+        "id": 76,
+        "name_fa": "نوتلا کروسان",
+        "name_en": "Nutella Croissant",
+        "ingredients_fa": "آرد، کره، شکر، نمک، تخم مرغ، نوتلا",
+        "ingredients_en": "Flour, Butter, Sugar, Salt, Eggs, Nutella",
+        "img": "/items/croissant.jpg"
+      },
+      {
+        "id": 77,
+        "name_fa": "بادامزمینی کروسان",
+        "name_en": "Peanut Butter Croissant",
+        "ingredients_fa": "آرد، کره، شکر، نمک، تخم مرغ، کره بادام زمینی",
+        "ingredients_en": "Flour, Butter, Sugar, Salt, Eggs, Peanut Butter",
+        "img": "/items/croissant.jpg"
+      },
+      {
+        "id": 78,
+        "name_fa": "املت سوجوک",
+        "name_en": "Sujuk Omelette",
+        "ingredients_fa": "تخم مرغ، سوجوک، پنیر، نان",
+        "ingredients_en": "Eggs, Sujuk, Cheese, Bread",
+        "img": ""
+      },
+      {
+        "id": 79,
+        "name_fa": "پیده آدنا",
+        "name_en": "Adana Pide",
+        "ingredients_fa": "گوشت چرخ کرده، پیاز، فلفل دلمه‌ای، ادویه‌جات، نان پیده",
+        "ingredients_en": "Ground Meat, Onions, Bell Peppers, Spices, Pide Bread",
+        "img": ""
+      },
+      {
+        "id": 80,
+        "name_fa": "پیده سوجوک",
+        "name_en": "Sujuk Pide",
+        "ingredients_fa": "گوشت سوجوک، پنیر، نان پیده",
+        "ingredients_en": "Sujuk Meat, Cheese, Pide Bread",
+        "img": ""
       }
     ]
   }
