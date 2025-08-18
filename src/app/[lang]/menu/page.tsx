@@ -4,21 +4,7 @@ import Header from "@/components/Header";
 import Items from "@/components/Items";
 import { defaultLang, Lang, languages } from "@/utils/i18n";
 import React, { useState, useEffect, use } from "react";
-
-interface MenuItem {
-  id: number;
-  name_fa: string;
-  name_en: string;
-  ingredients_fa: string;
-  ingredients_en: string;
-  img: string;
-  cost: string;
-}
-
-interface MenuCategory {
-  category: { fa: string; en: string };
-  items: MenuItem[];
-}
+import { MenuCategory } from "@/types/menu";
 
 export default function Page({ params }: { params: Promise<{ lang: Lang }> }) {
   // Unwrap the params Promise using React.use()

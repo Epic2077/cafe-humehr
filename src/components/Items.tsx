@@ -1,16 +1,7 @@
 import React from "react";
 import { Lang } from "@/utils/i18n";
 import ItemsCard from "./ItemsCard";
-
-interface MenuItem {
-  id: number;
-  name_fa: string;
-  name_en: string;
-  ingredients_fa: string;
-  ingredients_en: string;
-  img: string;
-  cost: string;
-}
+import { MenuItem } from "@/types/menu";
 
 interface ItemsProps {
   lang: Lang;

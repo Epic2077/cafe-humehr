@@ -1,16 +1,7 @@
 import { Lang } from "@/utils/i18n";
 import Image from "next/image";
 import React, { useState } from "react";
-
-interface MenuItem {
-  id: number;
-  name_fa: string;
-  name_en: string;
-  ingredients_fa: string;
-  ingredients_en: string;
-  img: string;
-  cost: string;
-}
+import { MenuItem } from "@/types/menu";
 
 interface ItemsCardProps {
   lang: Lang;

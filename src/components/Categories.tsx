@@ -1,19 +1,6 @@
 "use client";
 import { Lang } from "@/utils/i18n";
-
-interface MenuItem {
-  id: number;
-  name_fa: string;
-  name_en: string;
-  ingredients_fa: string;
-  ingredients_en: string;
-  img: string;
-}
-
-interface MenuCategory {
-  category: { fa: string; en: string };
-  items: MenuItem[];
-}
+import { MenuCategory } from "@/types/menu";
 
 interface CategoryFilterProps {
   lang: Lang;
