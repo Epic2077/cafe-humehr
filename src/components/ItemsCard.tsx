@@ -9,6 +9,7 @@ interface MenuItem {
   ingredients_fa: string;
   ingredients_en: string;
   img: string;
+  cost: string;
 }
 
 interface ItemsCardProps {
@@ -69,6 +70,17 @@ const ItemsCard = ({ item, lang, index }: ItemsCardProps) => {
           {lang === "fa" ? item.ingredients_fa : item.ingredients_en}
         </p>
       </div>
+      <p className="h-2">
+        {item.cost ? (
+          <span className={`text-[#0c5039] font-extralight text-sm`}>
+            {lang === "fa" ? `${item.cost} تومان ` : `${item.cost} Toman`}
+          </span>
+        ) : (
+          <span className={`text-[#0c5039] font-extralight text-sm`}>
+            {lang === "fa" ? "قیمت نامشخص" : "Unknown Price"}
+          </span>
+        )}
+      </p>
       <div className="w-12 h-1 bg-[#B0956B] rounded-full mt-4 mb-3.5"></div>
     </div>
   );
