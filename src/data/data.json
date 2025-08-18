@@ -562,7 +562,7 @@
         "name_fa": "سالاد میدل ایست",
         "name_en": "Middle East Salad",
         "ingredients_fa": "کاهو، گوجه فرنگی، خیار، زیتون، سس زیتون",
-        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper, Olive Oil Dressing",
+        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper",
         "img": "/items/middleeastsalad.jpg",
         "cost": "285,000"
       },
@@ -571,7 +571,7 @@
         "name_fa": "سالاد هومهر",
         "name_en": "Humehr Salad",
         "ingredients_fa": "کاهو، گوجه فرنگی، خیار، زیتون، سس زیتون",
-        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper, Olive Oil Dressing",
+        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper",
         "img": "/items/humehrsalad.jpg",
         "cost": "328,000"
       }
@@ -897,7 +897,7 @@
         "name_fa": "پیده آدنا",
         "name_en": "Adana Pide",
         "ingredients_fa": "گوشت چرخ کرده، پیاز، فلفل دلمه‌ای، ادویه‌جات ",
-        "ingredients_en": "Ground Meat, Onions, Bell Peppers, Spices, Pide Bread",
+        "ingredients_en": "Ground Meat, Onions, Bell Peppers, Spices",
         "img": "/items/pideadena.jpg"
       },
       {
