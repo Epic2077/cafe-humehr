@@ -9,6 +9,7 @@ interface MenuItem {
   ingredients_fa: string;
   ingredients_en: string;
   img: string;
+  cost: string;
 }
 
 interface ItemsProps {
