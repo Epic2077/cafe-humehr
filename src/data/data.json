@@ -130,10 +130,10 @@
       },
       {
         "id": 16,
-        "name_fa": "آیس لته سیگنچر",
-        "name_en": "Iced Latte Signature",
-        "ingredients_fa": "اسپرسو، شیر، یخ، طعم‌دهنده‌های مختلف",
-        "ingredients_en": "Espresso, Milk, Ice, Various Flavorings",
+        "name_fa": "آیس کافی سیگنچر",
+        "name_en": "Iced Coffee Signature",
+        "ingredients_fa": "اسپرسو، سودا، یخ، طعم‌دهنده‌ مخصوص",
+        "ingredients_en": "Espresso, Soda, Ice, Special Flavoring",
         "img": "/items/icemocha.jpg"
       }
     ]
@@ -143,7 +143,7 @@
     "items": [
       {
         "id": 17,
-        "name_fa": "قهوه کمیکس",
+        "name_fa": "قهوه کمکس",
         "name_en": "Chemex Coffee",
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
@@ -259,8 +259,8 @@
         "id": 26,
         "name_fa": "چای مراکشی",
         "name_en": "Moroccan Tea",
-        "ingredients_fa": "چای سبز، نعناع، شکر",
-        "ingredients_en": "Green Tea, Mint, Sugar",
+        "ingredients_fa": "چای سبز، نعناع ",
+        "ingredients_en": "Green Tea, Mint,",
         "img": "/items/tea.jpg"
       },
       {
@@ -283,8 +283,8 @@
         "id": 29,
         "name_fa": "دمنوش هات مینت",
         "name_en": "Hot Mint Herbal Tea",
-        "ingredients_fa": "چای گیاهی، نعناع، شکر",
-        "ingredients_en": "Herbal Tea, Mint, Sugar",
+        "ingredients_fa": "چای گیاهی، نعناع",
+        "ingredients_en": "Herbal Tea, Mint",
         "img": "/items/tea.jpg"
       },
       {
@@ -337,16 +337,16 @@
         "id": 36,
         "name_fa": "آب پرتقال",
         "name_en": "Orange Juice",
-        "ingredients_fa": "پرتقال تازه",
-        "ingredients_en": "Fresh Orange",
+        "ingredients_fa": " آب پرتقال، پرتقال، سیروپ پشن فروت",
+        "ingredients_en": "Orange, Orange juice, Passion fruit juice",
         "img": "/items/orangejuice.jpg"
       },
       {
         "id": 37,
         "name_fa": "آیس تی گانولا",
         "name_en": "Iced Tea Ganola",
-        "ingredients_fa": "چای، گرانولا، شیر",
-        "ingredients_en": "Tea, Granola, Milk",
+        "ingredients_fa": "چای ارل گری، لیمو، سودا",
+        "ingredients_en": "Earl Grey Tea, Lemon, Soda",
         "img": "/items/iceteaganola.jpg"
       },
       {
@@ -369,8 +369,8 @@
         "id": 40,
         "name_fa": "ماکتل بلک کریم",
         "name_en": "Black Cream Mocktail",
-        "ingredients_fa": "کرم، شکلات، شیر",
-        "ingredients_en": "Cream, Chocolate, Milk",
+        "ingredients_fa": "توت فرنگی، کربن فعال، شیر عسل",
+        "ingredients_en": "ُStrawberry, Active Carbon, Milk, Honey",
         "img": ""
       },
       {
@@ -390,23 +390,23 @@
         "id": 40,
         "name_fa": " پالنا",
         "name_en": "Palna Smoothie",
-        "ingredients_fa": "نارگیل، زرد آلو",
-        "ingredients_en": "Coconut, Apricot",
+        "ingredients_fa": "آناناس، موز، پرتقال",
+        "ingredients_en": "Pineapple, Banana, Orange",
         "img": "/items/palna.jpg"
       },
       {
         "id": 39,
         "name_fa": "تراپیکال",
         "name_en": "Tropical",
-        "ingredients_fa": "لبموناد، پشن فروت",
-        "ingredients_en": "Lemonade, Passion Fruit ",
+        "ingredients_fa": "موز، انبه، توتفرنگی",
+        "ingredients_en": "Banana, Mango, Strawbery ",
         "img": "/items/tropical.jpg"
       },
       {
         "id": 35,
         "name_fa": "اسپارکل رد",
         "name_en": "Sparkle Red Smoothie",
-        "ingredients_fa": "توت فرنگی، لیمو، سودا",
+        "ingredients_fa": "آلبالو، انار، لواشک",
         "ingredients_en": "Strawberry, Lemon, Soda",
         "img": "/items/sparklered.jpg"
       },
@@ -414,16 +414,16 @@
         "id": 36,
         "name_fa": "مارگاریتا",
         "name_en": "Margarita",
-        "ingredients_fa": "لیمو، شکر، نمک",
-        "ingredients_en": "Lime, Sugar, Salt",
+        "ingredients_fa": "لیمو، شکر، آناناس",
+        "ingredients_en": "Lime, Sugar, Pineapple",
         "img": "/items/margarita.jpg"
       },
       {
         "id": 37,
         "name_fa": "انتخاب بارتندر",
         "name_en": "Bartender's Choice",
-        "ingredients_fa": "ترکیبی از اسموتی و ماکتل",
-        "ingredients_en": "A blend of smoothie and mocktail",
+        "ingredients_fa": "طعم دلخواه",
+        "ingredients_en": "choosable taste",
         "img": "/items/tropical.jpg"
       }
     ]
@@ -435,24 +435,24 @@
         "id": 41,
         "name_fa": "شیک کره بادام زمینی",
         "name_en": "Peanut Butter Shake",
-        "ingredients_fa": "کره بادام زمینی، موز، شیر",
-        "ingredients_en": "Peanut Butter, Banana, Milk",
+        "ingredients_fa": "کره بادام زمینی،  شیر",
+        "ingredients_en": "Peanut Butter, Milk",
         "img": "/items/peanutbuttershake.jpg"
       },
       {
         "id": 42,
         "name_fa": " شیک هومهر",
         "name_en": "Humehr Shake",
-        "ingredients_fa": "شیر، بستنی وانیلی، توت فرنگی",
-        "ingredients_en": "Milk, Vanilla Ice Cream, Strawberries",
+        "ingredients_fa": " بستنی وانیلی، میوه فصل",
+        "ingredients_en": "Vanilla Ice Cream, Seasonal Fruits",
         "img": "/items/humehr.jpg"
       },
       {
         "id": 43,
         "name_fa": "شیک کوکیکو",
         "name_en": "Kokiko shake",
-        "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
-        "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
+        "ingredients_fa": "شیر، بستنی وانیلی، کوکی، نارگیل",
+        "ingredients_en": "Milk, Vanilla Ice Cream,Cookie, Coconut",
         "img": "/items/kookiko.jpg"
       },
       {
@@ -533,8 +533,8 @@
         "id": 51,
         "name_fa": "مریدا",
         "name_en": "Merida",
-        "ingredients_fa": "نان، مرغ، پنیر، سس",
-        "ingredients_en": "Bread, Chicken, Cheese, Sauce",
+        "ingredients_fa": "نان، مرغ، گوشت، حمص، پنیر پیتزا، سبزیجات",
+        "ingredients_en": "Bread, Chicken, Beef, homos, Pizza Cheese, Veggies",
         "img": "/items/merida.jpg"
       },
       {
@@ -623,7 +623,7 @@
         "id": 61,
         "name_fa": "پنینی گاردانو",
         "name_en": "Gardano Panini",
-        "ingredients_fa": "نان پنینی، گوشت، پنیر، سس پستو",
+        "ingredients_fa": "نان پنینی، مرغ، پنیر، رب انار",
         "ingredients_en": "Panini Bread, Beef, Cheese, Pesto Sauce",
         "img": "/items/paninibeefpesto.jpg"
       }
@@ -665,8 +665,8 @@
         "id": 63,
         "name_fa": "برگر اسپشیال",
         "name_en": "Special Burger",
-        "ingredients_fa": "گوشت، نان، پنیر، سس",
-        "ingredients_en": "Meat, Bread, Cheese, Sauce",
+        "ingredients_fa": "دوبل برگر، بیکن گوشت، سس پستو",
+        "ingredients_en": "Double Burgers, Beef Bacon, Pesto Sauce",
         "img": "/items/specialburger.jpg"
       },
       {
@@ -681,8 +681,8 @@
         "id": 65,
         "name_fa": "اسمش برگر",
         "name_en": "Smash Burger",
-        "ingredients_fa": "گوشت، نان، پنیر، سس، قارچ",
-        "ingredients_en": "Meat, Bread, Cheese, Sauce, Mushrooms",
+        "ingredients_fa": "برگر، سس پستو، بیکن گوشت",
+        "ingredients_en": "Meat, Pesto Sauce, Beef Bacon",
         "img": "/items/smashburger.jpg"
       },
       {
