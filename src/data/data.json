@@ -909,5 +909,66 @@
         "img": "/items/pidesoojook.jpg"
       }
     ]
+  },
+  {
+    "category": { "fa": "قلیان", "en": "Hookah" },
+    "items": [
+      {
+        "id": 81,
+        "name_fa": "لاو",
+        "name_en": "Luv",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 82,
+        "name_fa": "سور آسیا",
+        "name_en": "Sour Asia",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 83,
+        "name_fa": "میدی چارم",
+        "name_en": "Lady Charm",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 84,
+        "name_fa": "آدامس دارچین",
+        "name_en": "Cinnamon Gum",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 85,
+        "name_fa": "انگلیش میکس",
+        "name_en": "English mix",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 86,
+        "name_fa": "آدامس نعنا",
+        "name_en": "Mint Gum",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      },
+      {
+        "id": 87,
+        "name_fa": "...",
+        "name_en": "...",
+        "ingredients_fa": "قلیان طعم دار",
+        "ingredients_en": "tasty Hookah",
+        "img": "/items/hookah.jpg"
+      }
+    ]
   }
 ]
