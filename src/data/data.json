@@ -986,5 +986,28 @@
         "cost": "290,000"
       }
     ]
+  },
+  {
+    "category": { "fa": "متفرقه", "en": "Miscellaneous" },
+    "items": [
+      {
+        "id": 88,
+        "name_fa": "کیک روز",
+        "name_en": "Day Cake",
+        "ingredients_fa": "متغیر",
+        "ingredients_en": "Changable",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 89,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "متغیر",
+        "ingredients_en": "Changable",
+        "img": "",
+        "cost": ""
+      }
+    ]
   }
 ]
