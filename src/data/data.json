@@ -13,7 +13,7 @@
       },
       {
         "id": 2,
-        "name_fa": "امریکنو",
+        "name_fa": "آمریکانو",
         "name_en": "Americano",
         "ingredients_fa": "اسپرسو، آب",
         "ingredients_en": "Espresso, Water",
@@ -61,8 +61,8 @@
         "id": 8,
         "name_fa": "لته ماچا",
         "name_en": "Matcha Latte",
-        "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
-        "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
+        "ingredients_fa": "پودر ماچا، شیر",
+        "ingredients_en": "Milk, Matcha Powder",
         "img": "/items/lattemacha.jpg",
         "cost": "184,000"
       },
@@ -151,6 +151,24 @@
         "ingredients_en": "Espresso, Soda, Ice, Special Flavoring",
         "img": "/items/icemocha.jpg",
         "cost": "157,000"
+      },
+      {
+        "id": 17,
+        "name_fa": "کلد برو کلاسیک",
+        "name_en": "Classic Cold Brew",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "",
+        "cost": "122,000"
+      },
+      {
+        "id": 18,
+        "name_fa": "کلد برو اسپشیال",
+        "name_en": "Special Cold Brew",
+        "ingredients_fa": "طعم‌دهنده ، قهوه، آب",
+        "ingredients_en": "Coffee, Water, Flavoring",
+        "img": "",
+        "cost": "122,000"
       }
     ]
   },
@@ -233,15 +251,6 @@
         "ingredients_en": "Tea, Spices, Milk",
         "img": "/items/masala.jpg",
         "cost": "98,000"
-      },
-      {
-        "id": 21,
-        "name_fa": "کره چاکلت",
-        "name_en": "Butter Chocolate",
-        "ingredients_fa": "شکلات داغ، کره",
-        "ingredients_en": "Hot Chocolate, Butter",
-        "img": "/items/butterchocolate.jpg",
-        "cost": "152,000"
       },
       {
         "id": 22,
@@ -365,8 +374,8 @@
         "id": 32,
         "name_fa": "لیموناد",
         "name_en": "Lemonade",
-        "ingredients_fa": "لیمو، شکر، آب",
-        "ingredients_en": "Lemon, Sugar, Water",
+        "ingredients_fa": "لیمو، شکر، سودا",
+        "ingredients_en": "Lemon, Sugar, Soda",
         "img": "/items/lemonade.jpg",
         "cost": "112,000"
       },
@@ -552,8 +561,8 @@
         "id": 45,
         "name_fa": "سالاد سزار",
         "name_en": "Caesar Salad",
-        "ingredients_fa": "کاهو، سس سزار، پنیر پارمزان، نان تست",
-        "ingredients_en": "Lettuce, Caesar Dressing, Parmesan Cheese, Croutons",
+        "ingredients_fa": " مرغ، کاهو، سس سزار، پنیر پارمزان، نان تست",
+        "ingredients_en": "Chicken, Lettuce, Caesar Dressing, Parmesan Cheese, Croutons",
         "img": "/items/caesarsalad.jpg",
         "cost": "315,000"
       },
@@ -570,8 +579,8 @@
         "id": 47,
         "name_fa": "سالاد هومهر",
         "name_en": "Humehr Salad",
-        "ingredients_fa": "کاهو، گوجه فرنگی، خیار، زیتون، سس زیتون",
-        "ingredients_en": "Lettuce, Tomato, Cucumber, Olive, Bell Pepper",
+        "ingredients_fa": "مرغ، ،کاهو، گوجه فرنگی، خیار، زیتون، سس زیتون",
+        "ingredients_en": "Chicken, Lettuce, Tomato, Cucumber, Olive, Bell Pepper",
         "img": "/items/humehrsalad.jpg",
         "cost": "328,000"
       }
@@ -757,8 +766,8 @@
         "id": 63,
         "name_fa": "برگر اسپشیال",
         "name_en": "Special Burger",
-        "ingredients_fa": "دوبل برگر، بیکن گوشت، سس پستو",
-        "ingredients_en": "Double Burgers, Beef Bacon, Pesto Sauce",
+        "ingredients_fa": "دوبل برگر شکم پر، قارچ، فلفل دلمه، پنیر پیتزا",
+        "ingredients_en": "Double Stuffed Burger, Mushrooms, Bell Peppers, Pizza Cheese",
         "img": "/items/specialburger.jpg",
         "cost": "438,000"
       },
@@ -807,8 +816,8 @@
         "id": 68,
         "name_fa": "صبحانه هومهر",
         "name_en": "Humehr Breakfast",
-        "ingredients_fa": "کروسان،مربا، تخم مرغ،ژامبون   ",
-        "ingredients_en": "Croissant, Jam, Eggs, Ham, Cold Drink and Tea",
+        "ingredients_fa": "پپرونی، تست ژامبون پنیر، تخم مرغ",
+        "ingredients_en": "Pepperoni, Ham and Cheese Toast, Eggs",
         "img": "/items/humehrbreakfast.jpg",
         "cost": "363,000"
       },
@@ -823,19 +832,19 @@
       },
       {
         "id": 70,
-        "name_fa": "رول فرانکفورته",
+        "name_fa": "رول فرانکفورتر",
         "name_en": "Frankfurter Roll",
-        "ingredients_fa": "نان، سوسیس، پنیر، سس",
-        "ingredients_en": "Bread, Sausage, Cheese, Sauce",
+        "ingredients_fa": "سوسیس فرانکفورتر، تخم مرغ، سبزیجات",
+        "ingredients_en": "Frankfurter Sausage, Eggs, Vegetables",
         "img": "/items/frankfurterroll.jpg",
-        "cost": "297,,000"
+        "cost": "297,000"
       },
       {
         "id": 71,
         "name_fa": "املت شاپوری",
         "name_en": "Shapoori Omelette",
-        "ingredients_fa": "تخم مرغ، پنیر، سبزی، نان",
-        "ingredients_en": "Eggs, Cheese, Herbs, Bread",
+        "ingredients_fa": "املت گوجه، لوبیا، سیب زمینی سرخ کرده",
+        "ingredients_en": "Omelette, Beans, Fried Potatoes",
         "img": "/items/shapooriomelette.jpg",
         "cost": "215,000"
       },
@@ -843,8 +852,8 @@
         "id": 72,
         "name_fa": "صبحانه انگلیسی",
         "name_en": "English Breakfast",
-        "ingredients_fa": "نان تست، تخم مرغ، سوسیس، بیکن، لوبیا",
-        "ingredients_en": "Toast, Eggs, Sausage, Bacon, Beans",
+        "ingredients_fa": "تخم مرغ، سوسیس، بیکن، لوبیا",
+        "ingredients_en": "Eggs, Sausage, Bacon, Beans",
         "img": "/items/englishbreakfast.jpg",
         "cost": "342,000"
       },
@@ -919,7 +928,8 @@
         "name_en": "Luv",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 82,
@@ -927,7 +937,8 @@
         "name_en": "Sour Asia",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 83,
@@ -935,7 +946,8 @@
         "name_en": "Lady Charm",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 84,
@@ -943,7 +955,8 @@
         "name_en": "Cinnamon Gum",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 85,
@@ -951,7 +964,8 @@
         "name_en": "English mix",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 86,
@@ -959,7 +973,8 @@
         "name_en": "Mint Gum",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       },
       {
         "id": 87,
@@ -967,7 +982,8 @@
         "name_en": "...",
         "ingredients_fa": "قلیان طعم دار",
         "ingredients_en": "tasty Hookah",
-        "img": "/items/hookah.jpg"
+        "img": "/items/hookah.jpg",
+        "cost": "290,000"
       }
     ]
   }
