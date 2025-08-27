@@ -9,7 +9,7 @@
         "ingredients_fa": "قهوه خالص",
         "ingredients_en": "Pure Coffee",
         "img": "/items/esspresso.jpg",
-        "cost": "71,000 - 84,000"
+        "cost": "71,000 - 91,000"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "ingredients_fa": "اسپرسو، آب",
         "ingredients_en": "Espresso, Water",
         "img": "/items/americano.jpg",
-        "cost": "91,000"
+        "cost": "96,000"
       },
       {
         "id": 3,
@@ -27,7 +27,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
         "img": "/items/latte.jpg",
-        "cost": "141,000"
+        "cost": "147,000"
       },
 
       {
@@ -46,7 +46,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
         "img": "/items/cappuccino.jpg",
-        "cost": "139,000"
+        "cost": "147,000"
       },
       {
         "id": 7,
@@ -55,7 +55,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده",
         "ingredients_en": "Espresso, Steamed Milk",
         "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b838ddc130.jpeg",
-        "cost": "92,000"
+        "cost": "93,000"
       },
       {
         "id": 8,
@@ -73,7 +73,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، عسل، زعفران",
         "ingredients_en": "Espresso, Steamed Milk, Honey, Saffron",
         "img": "/items/latte.jpg",
-        "cost": "184,000"
+        "cost": "182,000"
       }
     ]
   },
@@ -96,7 +96,7 @@
         "ingredients_fa": "اسپرسو، آب، یخ",
         "ingredients_en": "Espresso, Water, Ice",
         "img": "/items/iceamericano.jpg",
-        "cost": "124,000"
+        "cost": "131,000"
       },
       {
         "id": 11,
@@ -114,7 +114,7 @@
         "ingredients_fa": "اسپرسو، شیر، یخ، خامه",
         "ingredients_en": "Espresso, Milk, Ice, Cream",
         "img": "/items/frappe.jpg",
-        "cost": "157,000"
+        "cost": "167,000"
       },
       {
         "id": 13,
@@ -123,7 +123,7 @@
         "ingredients_fa": "اسپرسو، شیر، یخ، پودر ماچا",
         "ingredients_en": "Espresso, Milk, Ice, Matcha Powder",
         "img": "/items/icemacha.jpg",
-        "cost": "184,000"
+        "cost": "187,000"
       },
       {
         "id": 14,
@@ -168,7 +168,16 @@
         "ingredients_fa": "طعم‌دهنده ، قهوه، آب",
         "ingredients_en": "Coffee, Water, Flavoring",
         "img": "",
-        "cost": "122,000"
+        "cost": "151,000"
+      },
+      {
+        "id": 19,
+        "name_fa": "آیس کافی بی چاکلت",
+        "name_en": "Ice Coffee B Chocolate",
+        "ingredients_fa": "اسپرسو، کرم پسته، شکلات",
+        "ingredients_en": "Espresso, Pistachio Cream, Chocolate",
+        "img": "",
+        "cost": "230,000"
       }
     ]
   },
@@ -368,7 +377,7 @@
         "ingredients_fa": "نعناع، لیمو، شکر، سودا",
         "ingredients_en": "Mint, Lemon, Sugar, Soda",
         "img": "/items/mojito.jpg",
-        "cost": "121,000"
+        "cost": "128,000"
       },
       {
         "id": 32,
@@ -377,7 +386,7 @@
         "ingredients_fa": "لیمو، شکر، سودا",
         "ingredients_en": "Lemon, Sugar, Soda",
         "img": "/items/lemonade.jpg",
-        "cost": "112,000"
+        "cost": "121,000"
       },
       {
         "id": 33,
@@ -386,7 +395,7 @@
         "ingredients_fa": "تمشک، آلبالو، پرتقال",
         "ingredients_en": "Raspberry, Cherry, Orange",
         "img": "/items/redboom.jpg",
-        "cost": "157,000"
+        "cost": "167,000"
       },
       {
         "id": 34,
@@ -395,7 +404,7 @@
         "ingredients_fa": "آلوئه ورا، نارگیل",
         "ingredients_en": "Aloe Vera, Coconut",
         "img": "/items/bluegas.jpg",
-        "cost": "128,000"
+        "cost": "131,000"
       },
 
       {
@@ -405,7 +414,7 @@
         "ingredients_fa": " آب پرتقال، پرتقال، سیروپ پشن فروت",
         "ingredients_en": "Orange, Orange juice, Passion fruit juice",
         "img": "/items/orangejuice.jpg",
-        "cost": "122,000"
+        "cost": "131,000"
       },
       {
         "id": 37,
@@ -423,7 +432,7 @@
         "ingredients_fa": "تمشک، پرتقال، کولا",
         "ingredients_en": "Raspberry, Orange, Cola",
         "img": "/items/bulmicola.jpg",
-        "cost": "153,000"
+        "cost": "167,000"
       },
       {
         "id": 39,
@@ -441,7 +450,7 @@
         "ingredients_fa": "توت فرنگی، کربن فعال، شیر عسل",
         "ingredients_en": "ُStrawberry, Active Carbon, Milk, Honey",
         "img": "",
-        "cost": "153,000"
+        "cost": "163,000"
       },
       {
         "id": 41,
@@ -464,16 +473,16 @@
         "ingredients_fa": "آناناس، موز، پرتقال",
         "ingredients_en": "Pineapple, Banana, Orange",
         "img": "/items/palna.jpg",
-        "cost": "146,000"
+        "cost": "167,000"
       },
       {
         "id": 39,
         "name_fa": "تراپیکال",
         "name_en": "Tropical",
         "ingredients_fa": "موز، انبه، توتفرنگی",
-        "ingredients_en": "Banana, Mango, Strawbery ",
+        "ingredients_en": "Banana, Mango, Strawberry",
         "img": "/items/tropical.jpg",
-        "cost": "158,000"
+        "cost": "171,000"
       },
       {
         "id": 35,
@@ -482,7 +491,7 @@
         "ingredients_fa": "آلبالو، انار، لواشک",
         "ingredients_en": "Strawberry, Lemon, Soda",
         "img": "/items/sparklered.jpg",
-        "cost": "158,000"
+        "cost": "168,000"
       },
       {
         "id": 36,
@@ -491,7 +500,7 @@
         "ingredients_fa": "لیمو، شکر، آناناس",
         "ingredients_en": "Lime, Sugar, Pineapple",
         "img": "/items/margarita.jpg",
-        "cost": "142,000"
+        "cost": "151,000"
       },
       {
         "id": 37,
@@ -501,6 +510,15 @@
         "ingredients_en": "choosable taste",
         "img": "/items/tropical.jpg",
         "cost": "210,000"
+      },
+      {
+        "id": 38,
+        "name_fa": "فیوچر درینک",
+        "name_en": "Future Drink",
+        "ingredients_fa": "اسپرولینا، آناناس، پرتقال",
+        "ingredients_en": "Spirulina, Pineapple, Orange",
+        "img": "",
+        "cost": "189,000"
       }
     ]
   },
@@ -514,7 +532,7 @@
         "ingredients_fa": "کره بادام زمینی،  شیر",
         "ingredients_en": "Peanut Butter, Milk",
         "img": "/items/peanutbuttershake.jpg",
-        "cost": "156,000"
+        "cost": "182,000"
       },
       {
         "id": 42,
@@ -541,7 +559,7 @@
         "ingredients_fa": "شیر، بستنی وانیلی، لوتوس",
         "ingredients_en": "Milk, Vanilla Ice Cream, Lotus",
         "img": "/items/lotus.jpg",
-        "cost": "167,000"
+        "cost": "180,000"
       },
       {
         "id": 45,
@@ -564,7 +582,7 @@
         "ingredients_fa": " مرغ، کاهو، سس سزار، پنیر پارمزان، نان تست",
         "ingredients_en": "Chicken, Lettuce, Caesar Dressing, Parmesan Cheese, Croutons",
         "img": "/items/caesarsalad.jpg",
-        "cost": "315,000"
+        "cost": "410,000"
       },
       {
         "id": 46,
@@ -582,7 +600,7 @@
         "ingredients_fa": "مرغ، ،کاهو، گوجه فرنگی، خیار، زیتون، سس زیتون",
         "ingredients_en": "Chicken, Lettuce, Tomato, Cucumber, Olive, Bell Pepper",
         "img": "/items/humehrsalad.jpg",
-        "cost": "328,000"
+        "cost": "352,000"
       }
     ]
   },
@@ -687,7 +705,7 @@
         "ingredients_fa": "نان پنینی، مرغ، پنیر، سس",
         "ingredients_en": "Panini Bread, Chicken, Cheese, Sauce",
         "img": "/items/paninichanato.jpg",
-        "cost": "322,000"
+        "cost": "354,000"
       },
       {
         "id": 58,
@@ -696,7 +714,7 @@
         "ingredients_fa": "نان پنینی، گوشت، پنیر، سس",
         "ingredients_en": "Panini Bread, Meat, Cheese, Sauce",
         "img": "/items/paninitanato.jpg",
-        "cost": "342,000"
+        "cost": "372,000"
       },
       {
         "id": 59,
@@ -705,7 +723,7 @@
         "ingredients_fa": "نان پنینی، گوشت، پنیر، سس پستو",
         "ingredients_en": "Panini Bread, Beef, Cheese, Pesto Sauce",
         "img": "/items/paninibeefpesto.jpg",
-        "cost": "332,000"
+        "cost": "348,000"
       },
       {
         "id": 60,
@@ -714,7 +732,7 @@
         "ingredients_fa": "نان پنینی، مرغ، پنیر، سس آلفردو",
         "ingredients_en": "Panini Bread, Chicken, Cheese, Alfredo Sauce",
         "img": "/items/paninichanato.jpg",
-        "cost": "323,000"
+        "cost": "338,000"
       },
       {
         "id": 61,
@@ -756,6 +774,24 @@
         "ingredients_en": "Pasta, Beef, Pesto Sauce, Cheese",
         "img": "/items/beefpesto.jpg",
         "cost": "342,000"
+      },
+      {
+        "id": 62,
+        "name_fa": "چیکن استراگانوف",
+        "name_en": "Chicken Stroganoff",
+        "ingredients_fa": "مرغ، سس آلفردو ژولین، سیب زمینی",
+        "ingredients_en": "Chicken, Alfredo Julianne Sauce,  Potatoes",
+        "img": "",
+        "cost": "460,000"
+      },
+      {
+        "id": 63,
+        "name_fa": "بیف اسنراگانوف",
+        "name_en": "Beef Stroganoff",
+        "ingredients_fa": "گوشت، سس آلفردو ژولین، سیب زمینی",
+        "ingredients_en": "Beef, Alfredo Julianne Sauce, Potatoes",
+        "img": "",
+        "cost": "520,000"
       }
     ]
   },
@@ -769,7 +805,7 @@
         "ingredients_fa": "دوبل برگر شکم پر، قارچ، فلفل دلمه، پنیر پیتزا",
         "ingredients_en": "Double Stuffed Burger, Mushrooms, Bell Peppers, Pizza Cheese",
         "img": "/items/specialburger.jpg",
-        "cost": "438,000"
+        "cost": "462,000"
       },
       {
         "id": 64,
@@ -810,7 +846,7 @@
         "ingredients_fa": "کروسان،مربا، تخم مرغ،ژامبون",
         "ingredients_en": "Croissant, Jam, Eggs, Ham, Cold Drink and Tea",
         "img": "/items/continental.jpg",
-        "cost": "463,000"
+        "cost": "483,000"
       },
       {
         "id": 68,
@@ -846,7 +882,7 @@
         "ingredients_fa": "املت گوجه، لوبیا، سیب زمینی سرخ کرده",
         "ingredients_en": "Omelette, Beans, Fried Potatoes",
         "img": "/items/shapooriomelette.jpg",
-        "cost": "215,000"
+        "cost": "235,000"
       },
       {
         "id": 72,
@@ -855,7 +891,7 @@
         "ingredients_fa": "تخم مرغ، سوسیس، بیکن، لوبیا",
         "ingredients_en": "Eggs, Sausage, Bacon, Beans",
         "img": "/items/englishbreakfast.jpg",
-        "cost": "342,000"
+        "cost": "372,000"
       },
       {
         "id": 73,
@@ -899,7 +935,8 @@
         "name_en": "Sujuk Omelette",
         "ingredients_fa": "تخم مرغ، سوجوک، پنیر، نان",
         "ingredients_en": "Eggs, Sujuk, Cheese, Bread",
-        "img": ""
+        "img": "",
+        "cost": "258,000"
       },
       {
         "id": 79,
@@ -907,7 +944,8 @@
         "name_en": "Adana Pide",
         "ingredients_fa": "گوشت چرخ کرده، پیاز، فلفل دلمه‌ای، ادویه‌جات ",
         "ingredients_en": "Ground Meat, Onions, Bell Peppers, Spices",
-        "img": "/items/pideadena.jpg"
+        "img": "/items/pideadena.jpg",
+        "cost": "310,000"
       },
       {
         "id": 80,
@@ -915,12 +953,13 @@
         "name_en": "Sujuk Pide",
         "ingredients_fa": "گوشت سوجوک، پنیر، نان پیده",
         "ingredients_en": "Sujuk Meat, Cheese, Pide Bread",
-        "img": "/items/pidesoojook.jpg"
+        "img": "/items/pidesoojook.jpg",
+        "cost": "285,000"
       }
     ]
   },
   {
-    "category": { "fa": "قلیان", "en": "Hookah" },
+    "category": { "fa": "متفرقه", "en": "Miscellaneous" },
     "items": [
       {
         "id": 81,
@@ -984,12 +1023,7 @@
         "ingredients_en": "tasty Hookah",
         "img": "/items/hookah.jpg",
         "cost": "290,000"
-      }
-    ]
-  },
-  {
-    "category": { "fa": "متفرقه", "en": "Miscellaneous" },
-    "items": [
+      },
       {
         "id": 88,
         "name_fa": "کیک روز",
