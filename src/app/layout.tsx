@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Caveat, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const caveat = Caveat({
   variable: "--font-caveat",
@@ -48,6 +49,7 @@ export default function RootLayout({
       <body className={`${caveat.variable} ${source.variable} antialiased`}>
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
