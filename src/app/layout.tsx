@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Caveat, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 
 const caveat = Caveat({
   variable: "--font-caveat",
@@ -39,12 +40,14 @@ export default function RootLayout({
               console.log('%c👨‍💻 Developed by Ashkan Sadeghi', 'color: #4CAF50; font-size: 16px; font-weight: bold;');
               console.log('%c🚀 Need a developer? Contact: epic.2077.uni@gmail.com', 'color: #2196F3; font-size: 14px;');
               console.log('%c🌐 Portfolio: https://github.com/Epic2077', 'color: #FF9800; font-size: 14px;');
-            `,
+              `,
           }}
         />
       </head>
+
       <body className={`${caveat.variable} ${source.variable} antialiased`}>
         {children}
+        <Analytics />
       </body>
     </html>
   );
