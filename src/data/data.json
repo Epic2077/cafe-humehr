@@ -803,7 +803,7 @@
         "cost": "342,000"
       },
       {
-        "id": 62,
+        "id": 63,
         "name_fa": "چیکن استراگانوف",
         "name_en": "Chicken Stroganoff",
         "ingredients_fa": "مرغ، سس آلفردو ژولین، سیب زمینی",
@@ -812,7 +812,7 @@
         "cost": "460,000"
       },
       {
-        "id": 63,
+        "id": 64,
         "name_fa": "بیف اسنراگانوف",
         "name_en": "Beef Stroganoff",
         "ingredients_fa": "گوشت، سس آلفردو ژولین، سیب زمینی",
@@ -987,6 +987,29 @@
   },
   {
     "category": { "fa": "متفرقه", "en": "Miscellaneous" },
+    "items": [
+      {
+        "id": 88,
+        "name_fa": "کیک روز",
+        "name_en": "Day Cake",
+        "ingredients_fa": "متغیر",
+        "ingredients_en": "Changable",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 89,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "متغیر",
+        "ingredients_en": "Changable",
+        "img": "",
+        "cost": ""
+      }
+    ]
+  },
+  {
+    "category": { "fa": "قلیان", "en": "Hooka" },
     "items": [
       {
         "id": 81,
