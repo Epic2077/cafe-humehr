@@ -54,7 +54,7 @@
         "name_en": "Cortado",
         "ingredients_fa": "اسپرسو، شیر بخار داده شده",
         "ingredients_en": "Espresso, Steamed Milk",
-        "img": "https://cdn.snappfood.ir/200x201/cdn/39/45/16/product_image/zoodfood/686b838ddc130.jpeg",
+        "img": "/items/kordato.jpg",
         "cost": "93,000"
       },
       {
@@ -194,6 +194,15 @@
         "cost": "210,000"
       },
       {
+        "id": 21,
+        "name_fa": "کلد برو کلاسیک",
+        "name_en": "Cold Brew Classic",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "/items/coldbrew-classic.jpg",
+        "cost": "210,000"
+      },
+      {
         "id": 18,
         "name_fa": "قهوه فرانسه",
         "name_en": "French Coffee",
@@ -218,6 +227,15 @@
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
         "img": "/items/v60.jpg",
+        "cost": "210,000"
+      },
+      {
+        "id": 22,
+        "name_fa": "کلد برو اسپشیال",
+        "name_en": "Cold Brew Spexial",
+        "ingredients_fa": "قهوه، آب",
+        "ingredients_en": "Coffee, Water",
+        "img": "/items/coldbrew-special.jpg",
         "cost": "210,000"
       }
     ]
@@ -449,7 +467,7 @@
         "name_en": "Black Cream Mocktail",
         "ingredients_fa": "توت فرنگی، کربن فعال، شیر عسل",
         "ingredients_en": "ُStrawberry, Active Carbon, Milk, Honey",
-        "img": "",
+        "img": "/items/black-cream.jpg",
         "cost": "163,000"
       },
       {
@@ -459,6 +477,15 @@
         "ingredients_fa": "پشن فروت، لیمو، شکر، سودا",
         "ingredients_en": "Passion Fruit, Lemon, Sugar, Soda",
         "img": "/items/lemonade.jpg",
+        "cost": "132,000"
+      },
+      {
+        "id": 42,
+        "name_fa": "ماکتل فیوچر درینک",
+        "name_en": "Future Drink Mocktail",
+        "ingredients_fa": "پشن فروت، لیمو، شکر، سودا",
+        "ingredients_en": "Passion Fruit, Lemon, Sugar, Soda",
+        "img": "/items/future-drink.jpg",
         "cost": "132,000"
       }
     ]
@@ -567,7 +594,7 @@
         "name_en": "Chocolate Shake",
         "ingredients_fa": "شیر، بستنی وانیلی، شکلات",
         "ingredients_en": "Milk, Vanilla Ice Cream, Chocolate",
-        "img": "/items/kookiko.jpg",
+        "img": "/items/chocolate-shake.jpg",
         "cost": "167,000"
       }
     ]
@@ -1037,8 +1064,53 @@
         "id": 89,
         "name_fa": "سیروپ",
         "name_en": "Syrup",
-        "ingredients_fa": "متغیر",
-        "ingredients_en": "Changable",
+        "ingredients_fa": "چاکلت کوکی",
+        "ingredients_en": "Chocolate Cookie",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 90,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "نارگیل",
+        "ingredients_en": "Coconut",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 91,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "رام",
+        "ingredients_en": "Rum",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 92,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "وانیل",
+        "ingredients_en": "Vanilla",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 93,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "فندق",
+        "ingredients_en": "Chestnut",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 94,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "شکلات فندق",
+        "ingredients_en": "Chocolate Chestnut",
         "img": "",
         "cost": ""
       }
