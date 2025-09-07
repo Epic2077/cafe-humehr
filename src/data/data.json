@@ -1001,8 +1001,53 @@
         "id": 89,
         "name_fa": "سیروپ",
         "name_en": "Syrup",
-        "ingredients_fa": "متغیر",
-        "ingredients_en": "Changable",
+        "ingredients_fa": "چاکلت کوکی",
+        "ingredients_en": "Chocolate Cookie",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 90,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "نارگیل",
+        "ingredients_en": "Coconut",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 91,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "رام",
+        "ingredients_en": "Rum",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 92,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "وانیل",
+        "ingredients_en": "Vanilla",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 93,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "فندق",
+        "ingredients_en": "Chestnut",
+        "img": "",
+        "cost": ""
+      },
+      {
+        "id": 94,
+        "name_fa": "سیروپ",
+        "name_en": "Syrup",
+        "ingredients_fa": "شکلات فندق",
+        "ingredients_en": "Chocolate Chestnut",
         "img": "",
         "cost": ""
       }
@@ -1073,69 +1118,6 @@
         "ingredients_en": "tasty Hookah",
         "img": "/items/hookah.jpg",
         "cost": "290,000"
-      },
-      {
-        "id": 88,
-        "name_fa": "کیک روز",
-        "name_en": "Day Cake",
-        "ingredients_fa": "متغیر",
-        "ingredients_en": "Changable",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 89,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "چاکلت کوکی",
-        "ingredients_en": "Chocolate Cookie",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 90,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "نارگیل",
-        "ingredients_en": "Coconut",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 91,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "رام",
-        "ingredients_en": "Rum",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 92,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "وانیل",
-        "ingredients_en": "Vanilla",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 93,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "فندق",
-        "ingredients_en": "Chestnut",
-        "img": "",
-        "cost": ""
-      },
-      {
-        "id": 94,
-        "name_fa": "سیروپ",
-        "name_en": "Syrup",
-        "ingredients_fa": "شکلات فندق",
-        "ingredients_en": "Chocolate Chestnut",
-        "img": "",
-        "cost": ""
       }
     ]
   }
