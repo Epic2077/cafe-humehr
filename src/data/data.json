@@ -18,7 +18,7 @@
         "ingredients_fa": "اسپرسو، آب",
         "ingredients_en": "Espresso, Water",
         "img": "/items/americano.jpg",
-        "cost": "96,000"
+        "cost": "91,000 - 96,000"
       },
       {
         "id": 3,
@@ -27,7 +27,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
         "img": "/items/latte.jpg",
-        "cost": "147,000"
+        "cost": "141,000 - 147,000"
       },
 
       {
@@ -46,7 +46,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده، کف شیر",
         "ingredients_en": "Espresso, Steamed Milk, Milk Foam",
         "img": "/items/cappuccino.jpg",
-        "cost": "147,000"
+        "cost": "141,000 - 147,000"
       },
       {
         "id": 7,
@@ -55,7 +55,7 @@
         "ingredients_fa": "اسپرسو، شیر بخار داده شده",
         "ingredients_en": "Espresso, Steamed Milk",
         "img": "/items/kordato.jpg",
-        "cost": "93,000"
+        "cost": "92,000 - 93,000"
       },
       {
         "id": 8,
@@ -87,7 +87,7 @@
         "ingredients_fa": "اسپرسو، شیر، یخ",
         "ingredients_en": "Espresso, Milk, Ice",
         "img": "/items/icelatte.jpg",
-        "cost": "153,000"
+        "cost": "147,000 - 153,000"
       },
       {
         "id": 10,
@@ -96,7 +96,7 @@
         "ingredients_fa": "اسپرسو، آب، یخ",
         "ingredients_en": "Espresso, Water, Ice",
         "img": "/items/iceamericano.jpg",
-        "cost": "131,000"
+        "cost": "124,000 - 131,000"
       },
       {
         "id": 11,
@@ -141,7 +141,7 @@
         "ingredients_fa": "اسپرسو، بستنی",
         "ingredients_en": "Espresso, Ice Cream",
         "img": "/items/affogato.jpg",
-        "cost": "132,000"
+        "cost": "125,000 - 132,000"
       },
       {
         "id": 16,
@@ -158,7 +158,7 @@
         "name_en": "Classic Cold Brew",
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
-        "img": "",
+        "img": "/items/coldbrew-classic.jpg",
         "cost": "122,000"
       },
       {
@@ -167,7 +167,7 @@
         "name_en": "Special Cold Brew",
         "ingredients_fa": "طعم‌دهنده ، قهوه، آب",
         "ingredients_en": "Coffee, Water, Flavoring",
-        "img": "",
+        "img": "/items/coldbrew-special.jpg",
         "cost": "151,000"
       },
       {
@@ -191,15 +191,6 @@
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
         "img": "/items/chemex.jpg",
-        "cost": "210,000"
-      },
-      {
-        "id": 21,
-        "name_fa": "کلد برو کلاسیک",
-        "name_en": "Cold Brew Classic",
-        "ingredients_fa": "قهوه، آب",
-        "ingredients_en": "Coffee, Water",
-        "img": "/items/coldbrew-classic.jpg",
         "cost": "210,000"
       },
       {
@@ -227,15 +218,6 @@
         "ingredients_fa": "قهوه، آب",
         "ingredients_en": "Coffee, Water",
         "img": "/items/v60.jpg",
-        "cost": "210,000"
-      },
-      {
-        "id": 22,
-        "name_fa": "کلد برو اسپشیال",
-        "name_en": "Cold Brew Spexial",
-        "ingredients_fa": "قهوه، آب",
-        "ingredients_en": "Coffee, Water",
-        "img": "/items/coldbrew-special.jpg",
         "cost": "210,000"
       }
     ]
@@ -537,15 +519,6 @@
         "ingredients_en": "choosable taste",
         "img": "/items/tropical.jpg",
         "cost": "210,000"
-      },
-      {
-        "id": 38,
-        "name_fa": "فیوچر درینک",
-        "name_en": "Future Drink",
-        "ingredients_fa": "اسپرولینا، آناناس، پرتقال",
-        "ingredients_en": "Spirulina, Pineapple, Orange",
-        "img": "",
-        "cost": "189,000"
       }
     ]
   },
